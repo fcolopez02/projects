@@ -1,2 +1,0 @@
-# projects
-Semi-Portfolio
