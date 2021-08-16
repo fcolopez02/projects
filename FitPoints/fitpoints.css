@@ -1,0 +1,95 @@
+.container { 
+    border: 2px solid black;
+    width: 350px;
+    height: 600px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.right{
+  padding-left: 190px;  
+}
+
+.bottom {
+    padding-top: 20px;
+    text-align: center;
+    padding-left: 50px; 
+}
+    
+.bottom2 {
+    padding-top: 128px;
+    text-align: center;
+    padding-left: 50px; 
+}
+
+.bottom3 {
+    padding-top: 130px;
+    text-align: center;
+    padding-left: 50px;
+}
+
+
+.CalendarImage {
+    padding-top: 54px;
+}
+
+#myProgress {
+
+    width: 100%; 
+    background-color: grey;
+    
+}
+
+#myBar {
+    height: 100px;
+    width: 0%;
+    background-color: blue;
+}
+.myButton{
+    padding-top: 208px;
+    font-size: 36px;
+}
+.bottom5{
+    text-align:center;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+.center{
+    padding-bottom: 15px;
+}
+.text-center{
+    padding-top: 20px;
+}
+.bottom6{
+    text-align:center;
+    padding-top: 178px;
+    padding-left: 50px;
+}
+
+.bottom7{
+    text-align:center;
+    padding-top: 190px;
+    padding-left: 50px;
+}
+
+.bottom4{
+    text-align:center;
+    padding-top: 138px;
+    padding-left: 50px;
+}
+.bottom8{
+    text-align: center;
+    padding-top: 226px;
+    padding-left: 50px;
+}
+.submitted{
+    padding-top:150px;
+}
+
+
+ 
